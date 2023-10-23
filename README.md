@@ -1,2 +1,2 @@
 # edureka-calc
-addtion has add function
+addtion has add function x + y
